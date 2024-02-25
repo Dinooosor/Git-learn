@@ -8,6 +8,8 @@ Git 是一个分布式版本管理工具，版本管理工具就是大家在写�
 
 yzh新加了一行，用以测试
 
+2.这里新加一个测试，用以学习branch
+
 ## 开卷必读
 
 *如果之前未使用过 Git，可以学习 [Git 小白教程](https://rogerdudler.github.io/git-guide/index.zh.html)入门*
